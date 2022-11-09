@@ -1,6 +1,6 @@
-# MyCalculator
+# Calculator
 
-_Приложение MyCalculator — это приложение для Windows, написанное на C#. Приложение предоставляет стандартные, научные и программные функции калькулятора._ 
+_Приложение Calculator — это приложение для Windows, написанное на C#. Приложение предоставляет стандартные, научные и программные функции калькулятора._ 
 ____
 
 # Функции
@@ -24,7 +24,7 @@ _Предпосылки:_
 + Установите расширение для Visual Studio.
 + Получить код: 
 
-    git clone https://github.com/kg0ez/MyCalculator.git
+    git clone https://github.com/NikolayPashkevich/Calculator_4.0.git
 
 + Откройте src\Calculator.sln в Visual Studio, чтобы создать и запустить приложение MyCalculator.
 + Для запуска тестов пользовательского интерфейса необходимо убедиться, что установлен драйвер приложения Windows (WinAppDriver).
